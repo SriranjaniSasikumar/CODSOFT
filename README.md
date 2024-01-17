@@ -2,3 +2,11 @@
 
 # CODSOFT
 # Python programming internship
+Ⓜ️ REQUIREMENTS :
+Python v3.11
+PLATFORM USED :
+Windows Terminal
+Visual Studio Code
+PyCharm
+
+📝 TASK 1 :
