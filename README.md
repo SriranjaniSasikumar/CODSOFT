@@ -27,7 +27,7 @@ This project aims to create a command-line or GUI-based application using Python
 ```
 - SCREENSHOT
 
-<img src="https://drive.google.com/file/d/1n53sKmH69KPJGgsopyxQBwsmy9GF-jSF/view" height="350px" alt="code.png"> 
+<img src="https://drive.google.com/file/d/1n53sKmH69KPJGgsopyxQBwsmy9GF-jSF/view" width="500px" height="350px" alt="code.png"> 
 </br>
 
 ### 📝 TASK 2 :
