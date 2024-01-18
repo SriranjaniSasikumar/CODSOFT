@@ -46,7 +46,8 @@ To design a simple calculator with basic arithmetic operations.
 ``` 
 - SCREENSHOT
 
-<img src="C:\Users\user\Pictures\calculator task2 codsoft.PNG" width="500px" height="550px" alt="code.png">
+![calculator task2 codsoft](https://github.com/SriranjaniSasikumar/CODSOFT/assets/126678293/a2583972-0a97-4851-88ff-cbc865d1904f)
+
 
 </br>
 
@@ -68,14 +69,14 @@ A password generator is a useful tool that generates strong and random passwords
 
 - SCREENSHOT
 
-<img src="C:\Users\user\Pictures\calculator task2 codsoft.PNG" width="500px" height="350px" alt="code.png">
+![passord generator task3 codsoft](https://github.com/SriranjaniSasikumar/CODSOFT/assets/126678293/c049c81c-b650-4861-8dce-a0d43c968fa9)
+
 
 </br>
 
 ### [+] Find me on :
 
-
-
+<a href="mailto:sriranjani2219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sriranjani2219@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 ---
 
 <h5 align="center">© 2023-24 Sriranjani.</h5>
