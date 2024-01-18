@@ -23,7 +23,7 @@
   
 ```javascript
 
-<h3> To design a simple calculator with basic arithmetic operations.<h3>
+ To design a simple calculator with basic arithmetic operations.
 
 1. User Input : Prompt the user to specify two numbers and an operation choice.
 
