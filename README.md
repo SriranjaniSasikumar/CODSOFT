@@ -26,8 +26,10 @@ and organize their tasks efficiently.
 This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
 ```
 - SCREENSHOT
+  
+![todo list task1 codsoft](https://github.com/SriranjaniSasikumar/CODSOFT/assets/126678293/823841ae-ef6b-4d2d-99f4-c118aeb378af)
 
-<img src="https://drive.google.com/file/d/1n53sKmH69KPJGgsopyxQBwsmy9GF-jSF/view" width="500px" height="350px"> 
+
 </br>
 
 ### 📝 TASK 2 :
