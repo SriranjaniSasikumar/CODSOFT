@@ -26,7 +26,7 @@ A To-Do List application is a useful project that helps users manage and organiz
 
 This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
 
-<h3> Building a To-Do list application using Tkinter <h3>
+Building a To-Do list application using Tkinter 
 
 The procedure of building a To-Do list management application using Tkinter is divided into several steps. These steps are shown below:
 
