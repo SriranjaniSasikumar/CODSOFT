@@ -76,7 +76,11 @@ A password generator is a useful tool that generates strong and random passwords
 
 ### [+] Find me on :
 
+<a href="https://telegram.me/ran_vinci" target="_blank"><img src="https://img.shields.io/badge/Messenger-ran_vinci-blue?style=for-the-badge&logo=messenger"></a>
+
 <a href="mailto:sriranjani2219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sriranjani2219@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+
+</br>
 ---
 
 <h5 align="center">© 2023-24 Sriranjani.</h5>
